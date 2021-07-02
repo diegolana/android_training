@@ -38,3 +38,8 @@ fun main() {
     io.writeln("End!")  
 }
 ```
+
+# Sample Images
+
+![](https://github.com/diegolana/android_training/blob/main/TrainingSampleImg1.png)
+![](https://github.com/diegolana/android_training/blob/main/TrainingSampleImg2.png)
