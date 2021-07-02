@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string name="input_hint">Input</string>
+    <string name="output_hint">Output</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_replay">Replay</string>
+</resources>
